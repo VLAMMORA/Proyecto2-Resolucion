@@ -1,0 +1,11 @@
+/* Estilo para las imágenes dentro del carrusel */
+#carouselId .carousel-inner img {
+    width: 50%;
+  
+    object-fit: cover; /* Esto asegura que la imagen cubra completamente el contenedor manteniendo la relación de aspecto */
+}
+
+/* Estilo opcional para el contenedor del carrusel para fijar un alto específico */
+#carouselId {
+    max-height: 500px; /* Puedes ajustar este valor según tus necesidades */
+}
