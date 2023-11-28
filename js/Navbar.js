@@ -34,6 +34,9 @@ contenidoHTML = `
             <a class="nav-link" href="Equipo.html">Nuestro Equipo</a>
           </li>
           <li class="nav-item">
+          <a class="nav-link" href="Comentarios.html">Comentarios</a>
+        </li>
+          <li class="nav-item">
             <a class="nav-link" href="Heroesbusqueda.html">Buscar Heroes </a>
           </li>
           <li class="nav-item dropdown">
