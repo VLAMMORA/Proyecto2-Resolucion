@@ -28,7 +28,7 @@ contenidoHTML = `
             <a class="nav-link" href="Index.html">Inicio <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="Quienes.html">Quienes Somos</a>
+            <a class="nav-link" href="Registro.html">Registro</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="Equipo.html">Nuestro Equipo</a>
